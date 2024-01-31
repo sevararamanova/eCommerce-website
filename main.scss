@@ -1,0 +1,185 @@
+* {
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+
+.container {
+ 
+   
+    
+
+
+ .banner {
+
+        width: 1440px;
+        height: 812.53px;
+        position: relative;
+       
+       
+    
+    &__header {
+      
+        width: 1440px;
+        height: 100px;  }
+       
+    .banner__nav{
+      
+        width: 1286px;
+        height: 41px;
+        margin:0px auto;
+        position: absolute;
+        top:29px;
+        left:54px;
+
+        .banner__img {
+            
+            width: Hug (185px);
+            height: Hug (41px);
+            top:29px;
+            left:54px;
+            display: flex;
+            gap:5px;
+           
+        }
+        
+    }
+
+        .banner__ul {
+        width: 430px;
+        height: 24px;
+        position: absolute;
+        top:10px;
+        left:505px;
+        display: flex;
+        gap:50px;
+      
+        
+       
+        
+       
+       a {
+        text-decoration: none;
+        list-style: none;
+        color:#000000;
+        
+        
+       }
+       
+       
+        li {
+        list-style: none;
+        display: inline-block;
+        font-weight: 800;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+       
+       
+       }
+    }
+
+.banner__icons {
+position: absolute;
+top:5px;
+left:1093px;
+display: flex;
+gap:24px;
+
+}
+.banner {
+   
+    background: url(./images/scandinavian-interior-mockup-wall-decal-background\ 1.jpg);
+    width: 1440px;
+   height: 716.83px;
+}
+.banner__MarkGroup {
+    background-color: #faf4e5;
+    width: 643px;
+    height:443px;
+    position: absolute;
+    top:223px;
+    left:733px;
+    border-radius: 10px;
+   
+}
+.MarkGroup__box {
+ 
+  width: 561px;
+  height: 344px;
+  position: absolute;
+  top:60px;
+  left:45px;
+
+  h1 {
+    color:#B88E2F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 65px;
+  }
+  .MarkGroup__button {
+    width: Hug (222px);
+    height: Hug (74px);
+    position: absolute;
+    top:280px;
+    background-color: #B88E2F;
+    color:white;
+    padding:25px 72px 25px 72px;
+    border:none;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  p {
+    margin:20px 0px;
+    font-family:sans-serif;
+ }
+}
+}  
+
+.subcontainer {
+    width: 1183px;
+    height:685px;
+    position: absolute;
+    top:869px;
+    left:131px;
+   
+
+    .subcontainer__text {
+        text-align: center;
+         padding:20px 0px;
+       
+        h3{
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 48px;
+        }
+        p{
+            font-family: 'Poppins', sans-serif;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
+
+        }
+        span {
+            font-family: 'Poppins', sans-serif;
+            font-size: 20px;
+            font-weight: 800;
+        }
+
+      
+    }
+
+.subcontainer__imgs {
+    width: 381px;
+    height:480px;
+    display: flex;
+    gap:20px;
+    position: absolute;
+    top:130px;
+
+}
+}
+ }
+
