@@ -136,4 +136,188 @@
   gap: 20px;
   position: absolute;
   top: 130px;
-}/*# sourceMappingURL=main.css.map */
+}
+.products{
+  width: 1236px;
+  height: 1084px;
+  position: absolute;
+  top:1600px;
+  left:102px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+  .products__img {
+    height:30px;
+     position: relative;
+    position: absolute; 
+      bottom:1030px; 
+     left:500px; 
+    text-align: center;
+    
+  }
+  .products__frame-7 {
+    width: Hug(1,236px);
+    height:Hug(446px);
+    position: absolute;
+    top:102px;
+    left:0px; 
+    display: flex;
+    gap:32px;
+  }
+  .products__frame-8 {
+    width: Hug(1,236px);
+    height:Hug(446px);
+    position: absolute;
+   top:564px;
+    left:0px;
+    display: flex;
+    gap:32px;
+
+  }
+  .products__button {
+   position: absolute;
+   top:1030px;
+   left:500px;
+   border:none;
+  }
+  .beautiful {
+    width: 1440px;
+    height:670px;
+    position: absolute;
+    top:2763px;
+   
+    background-color: #f5ebd4;
+  }
+  .rectangle {
+    width: 372px;
+    height: 486px;
+    position: absolute;
+    bottom:140px;
+    left:1060px; 
+  }
+  .indicator {
+    position: absolute;
+    bottom:90px;
+    left:1060px;
+  }
+  .ellipse {
+    position: absolute;
+    bottom:290px;
+    left:1367px;
+  }
+  .image {
+    width: 404px;
+    height: 582px;
+    position: absolute;
+    bottom:44px;
+    left:600px;
+  }
+  .text {
+    width: 422px;
+    height:151px;
+    position: absolute;
+    left:100px;
+    bottom:250px;
+    font-size: large;
+    font-family: sans-serif; 
+  }
+  .text h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  .text p {
+    font-size: 18px;
+    color:rgb(127, 125, 125);
+    line-height: 6px;
+   
+  }
+  .beautiful__button {
+    width: 176px;
+    height: 48px;
+    position: absolute;
+    bottom:170px;
+    left:100px;
+    border: none;
+  }
+  .furniture {
+    height: 780px;
+    width: 1440px;
+    top:3500px;
+    left:-196px;
+  }
+  .furniture__share {
+    position: absolute;
+   top:3500px;
+  }
+  .footer {
+    
+    width: 1440px;
+    height: 505px;
+    position: absolute;
+    top:4330px;
+    padding:60px;
+    font-family: sans-serif;
+  }
+.subfooter {
+  position: absolute;
+ top:430px;
+ left:100px;
+}.newsletter {
+  position: absolute;
+  left:970px;
+  font-family: sans-serif;
+}
+ .newsletter p {
+  font-family: sans-serif;
+ }
+
+li {
+list-style: none;
+
+}
+.help {
+  position: absolute;
+  left: 700px;
+ 
+}
+ p {
+  margin-bottom: 20px;
+  color:rgb(153, 152, 152);
+}
+.help a {
+  text-decoration: none;
+  color:black;
+  
+}
+.help li {
+  margin-bottom: 60px;
+
+}
+.links {
+  position: absolute;
+  left:500px;
+}
+.links a {
+  text-decoration: none;
+  color:black;
+}
+.links li {
+  margin-bottom:60px ;
+}
+a:hover{
+  color:blue;
+}
+.funiro {
+  position: absolute;
+  left: 100px;
+  
+}
+.funiro-text {
+ 
+ padding:40px;
+ color:#9F9F9F
+}
+/* # sourceMappingURL=main.css.map */ 
